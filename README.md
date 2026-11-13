@@ -8,8 +8,8 @@ The chat is 100% offline and simulated. No real viewers, accounts or platforms.
 📱 **Android:** grab the APK from [Releases](https://github.com/BuggyGamesYT/CommentSection/releases).
 
 ## Controls
-- Keyboard: ← → or A/D move, Space/W/↑ jump (hold for higher), Esc/P pause, M mute
-- Touch: hold ◀ ▶ to move, tap JUMP, ⏸ to pause (play sideways)
+- Keyboard: ← → or A/D move, Space/W/↑ jump (hold for higher, press again in the air to double jump), Esc/P pause, M mute
+- Touch: hold ◀ ▶ to move, tap JUMP (hold for higher, tap again to double jump), ⏸ to pause (play sideways)
 
 ## Project layout
 - `web/` – the game (plain HTML + JavaScript, no libraries). `core.js` is levels, physics, chat and polls; `index.html` is drawing, controls and menus.
